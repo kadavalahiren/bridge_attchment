@@ -4,6 +4,9 @@ html,body{
     background-image: url(../image/home-background-img.png);
     background-size: cover;
 }
+*{
+    box-sizing: border-box;
+}
 .img1{
     width: 100%;
     height: 100%;
@@ -148,4 +151,91 @@ html,body{
 .font_size{
     font-size: 34px;
     text-align: center;
+}
+.arrow{
+    width: 15px;
+    height: 15px;
+}
+.left_arrow{
+    border: 2px solid black;
+    margin: 10px;
+}
+.right_arrow{
+   border: 2px solid black; 
+}
+.section_14{
+    width: 100%;
+    margin: auto;
+    
+}
+.div-sec_14{
+    width: 80%;
+    margin: auto;
+}
+.sec_div14{
+    width: 100%;
+    margin: auto;
+    overflow: auto;
+}
+.sec_div14_img1{
+    width: 33.33%;
+    float: left;
+}
+.size{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+.sec_div14_img2{
+    width: 33.33%;
+    float: left;
+}
+.sec_div14_img3{
+    width: 33.33%;
+    float: left;
+}
+.section_15{
+    width: 100%;
+    margin: auto;
+}
+.section_div_15{
+    width: 80%;
+    margin: 15px auto;
+    overflow: auto;
+}
+.div_15_1{
+    width: 33.33%;
+    float: left;
+    overflow: auto;
+}
+.div15_1_01{
+    width: 50%;
+    margin: 10px auto 0px auto;
+    float: left;
+}
+.large-font{
+    font-size: 90px;
+    margin: auto;
+    text-align: center;
+}
+.super_class{
+    font-size: 34px;  
+}
+.small-font{
+    text-align: right;
+    font-size: 20px;
+    margin: auto;
+}
+.div15_1_02{
+    width: 50%;
+    margin: auto;
+    float: left;
+}
+.div_15_2{
+    width: 33.33%;
+    float: left;
+}
+.div_15_3{
+    width: 33.33%;
+    float: left;
 }
