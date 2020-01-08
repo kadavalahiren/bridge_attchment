@@ -249,14 +249,14 @@ html,body{
     margin: auto;
 }
 .butt1{
-    width: 200px;
+    width: 150px;
     height: 50px;
-    margin: 10px auto 50px auto;
+    margin: 10px auto 20px auto;
     background-color:hotpink;
 }
 .butt_text{
-    margin: auto 35px;
-    padding: 13px;
+    margin: auto 20px;
+    padding: 10px;
 }
 .div_15_2{
     width: 33.33%;
@@ -303,26 +303,80 @@ hr{
 .first_name{
     width: 48%;
     height: 80px;
-    background-color: gray;
+    background-color:whitesmoke;
     margin: auto 10px 0px 0px;
     float: left;
+}
+.text_name{
+    padding: 5px;
+    margin: 20px;
+    text-align: left;
+    font-size: 25px;
 }
 .last_name{
     width: 48%;
     height: 80px;
     margin: auto 0px 0px 10px;
-    background-color: gray;
+    background-color: whitesmoke;
     float:right;
 }
 .email{
     width: 60%;
     height: 80px;
     margin: 20px auto;
-    background-color: gray;
+    background-color: whitesmoke;
+}
+.email_address{
+    padding: 25px;
+    text-align: left;
+    font-size: 25px;
 }
 .message{
     width: 60%;
     height: 200px;
     margin: 0px auto 20px auto;
-    background-color:gray;
+    background-color:whitesmoke;
+}
+.msg_text{
+    padding: 20px 0px 0px 20px;
+    text-align: left;
+    font: 25px;
+}
+.Cont_Button{
+    width: 170px;
+    height: 60px;
+    margin: auto;
+    background-color: whitesmoke;
+}
+.cont_text{
+    padding: 15px;
+    margin:auto;
+    text-align: center;
+    font-size: 25px;
+}
+.last_section{
+    width: 100%;
+    margin: auto;
+}
+.last_sec_logo{
+    width: 30%;
+    margin: auto;
+    text-align: center;
+}
+.logo_image{
+    display: inline-block;
+}
+.logo{
+   margin: auto;
+}
+.last_text1{
+    width: 50%;
+    margin: auto;
+}
+.last_txt1{
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+    font-size: 38px;
+    color:black;
 }
