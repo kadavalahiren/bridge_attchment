@@ -352,15 +352,19 @@ hr{
     padding: 15px;
     margin:auto;
     text-align: center;
+    background-color: crimson;
     font-size: 25px;
 }
 .last_section{
     width: 100%;
     margin: auto;
+    padding: 72px 0px 20px 0px;
+    background-image: url(../image/footer-background-img.png);
+    background-size: cover;   
 }
 .last_sec_logo{
     width: 30%;
-    margin: auto;
+    margin: 20px auto;
     text-align: center;
 }
 .logo_image{
@@ -377,6 +381,40 @@ hr{
     text-align: center;
     padding: 10px;
     margin: 20px;
-    font-size: 38px;
+    font-size: 28px;
+    color:black;
+}
+.icons{
+    width: 25%;
+    margin: 50px auto;
+    padding: 10px;
+    text-align: center;
+    overflow: auto;
+}
+.icon1{
+    margin: 5px;
+    float: left;
+}
+.icon2{
+    margin: 5px;
+    float: left;
+}
+.icon3{
+    margin: 5px;
+    float: left;
+}
+.icon4{
+    margin: 5px;
+    float: left;
+    background-color: white;
+    height: 100%;
+    border-radius: 100%;
+}
+.last_txt3{
+    width: 30%;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    font-size: 16px;
     color:black;
 }
